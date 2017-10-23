@@ -1,0 +1,28 @@
+.header-flat{
+  background: white;
+  border: 1px solid #dce0e0;
+
+  p{
+    font-weight: normal;
+    font-size: 14px;
+    color: #777777;
+  }
+
+  h1{
+      font-size: 18px;
+
+  }
+}
+
+
+.header-flat-details{
+  display: flex;
+  padding: 50px;
+  align-items: center;
+  padding-left: 0;
+}
+
+.header-flat-owner{
+  display: flex;
+  padding: 20px;
+}

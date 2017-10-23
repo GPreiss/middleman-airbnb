@@ -1,0 +1,29 @@
+gpreiss:
+  name: "Gabriela's home"
+  description: "Clean, airy flat in city's center"
+  city_name: "Lisbon, Portugal"
+  city_slug: "lisbon"
+  wifi: true
+  rating: 5
+  max_guests: 2
+  party_ready: false
+
+jolham1985:
+  name: "Hamish's home'"
+  description: "My favorite flat in central London!"
+  city_name: "London, England"
+  city_slug: "london"
+  wifi: true
+  rating: 3
+  max_guests: 120
+  party_ready: true
+
+anansilva:
+  name: "Ana's home"
+  description: "Pretty place with pretty food"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 5
+  max_guests: 3
+  party_ready: true
